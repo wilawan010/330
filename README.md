@@ -4,3 +4,6 @@
 *.iml
 out
 /bin/
+*.iml
+out
+/bin/
