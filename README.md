@@ -8,3 +8,6 @@ out
 out
 /bin/
 82
+out
+/bin/
+82
