@@ -12,3 +12,4 @@ out
 /bin/
 82
 gill
+lit
