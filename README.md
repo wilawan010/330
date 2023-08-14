@@ -4,9 +4,7 @@
 *.iml
 out
 /bin/
-*.iml
-out
-/bin/
+
 82
 out
 /bin/
