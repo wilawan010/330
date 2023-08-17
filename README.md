@@ -3,7 +3,6 @@
 .idea
 *.iml
 out
-/bin/
 
 82
 out
